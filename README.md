@@ -70,7 +70,10 @@ Key calculations include:
 
 - Report page tooltips explaining ROI, CLV impact, and percentage changes
 ![Retention Value](https://github.com/user-attachments/assets/26fe80ab-f050-445c-951f-6e5e2f84e569)
-  
+![Discount Count](https://github.com/user-attachments/assets/8ed26087-a887-42c7-8fde-cb43713bb315)
+![Churn Comparison](https://github.com/user-attachments/assets/448bbb36-5ce3-4dc1-9ae2-a59f1069886c)
+
+
 # Data Analysis & Visualization:
 ![0% Discount](https://github.com/user-attachments/assets/044f8aa2-95a9-46eb-9dd5-66cf4d34fa8f)
 ## Interactive Scenario Analysis:
